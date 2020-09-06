@@ -1,0 +1,157 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: black;
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+
+.container {
+    width:100%;
+    margin: 0 auto;
+   
+}
+.parent{
+    background-image: url("s.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;height:700px;
+    text-align: center;
+    font-size:25px;
+}
+.one {
+   
+    float: right;
+ 
+    padding: 10px;
+    margin: 20px 50px;
+    background-color: tomato;
+    font-size: 30px;
+    border-radius: 5px;
+}
+   
+.one :hover {
+    background-color: wheat;
+    transition: all 0.5s ease-out;
+
+}
+
+.two {
+    float: left;
+    width: 200px;
+  margin: 10px 30px;
+  padding: 0;
+  color:tomato;
+  font-family: jokerman;
+ 
+}
+input[type=button]{
+    width: 40%px;
+    height:55px;
+    padding:0px 30px 10px 30px;
+    background-color:rgb(240, 34, 154);
+   margin:25px 40px auto 0;
+  font-weight:bold; 
+  font-size:25px;
+
+}
+input[type=email]{
+    width: 30%;
+    height:50px;
+    padding: 20 40px;
+    margin: 20px 0 auto auto;
+
+}
+.sec{
+    background-image: url(zz.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;height:500px;
+    font-size:25px;
+    padding-left:50px ;
+
+}
+.third{
+    background-image: url(gd.gif);
+    background-repeat: no-repeat;
+    background-position: 100px 50%;
+    width: 100%;height:500px;
+    font-size:25px;
+    float: left;
+    text-align: center;
+    
+   
+}
+.hh{
+    float:right;
+    padding-right: 100px;
+}
+.fourth{
+    background-image: url(ww.gif);
+    background-repeat: no-repeat;
+    width: 100%;;height:500px;
+    font-size:25px;
+    float: right;
+
+
+}
+
+.hhh{
+    float:left;
+    padding-left: 100px;
+}
+.fifth{
+
+    float:left;
+    font-size:25px;
+    padding-left: 100px;
+    background-image: url(mn.gif);
+    background-repeat: no-repeat;
+    background-position: 900px 50%;
+    width:100%; height:600px;
+    
+}
+
+.sex{
+    width:100%; height:800px;
+}
+
+.j{
+   
+   width:60%; 
+text-align:left; 
+ display: block;
+ background-color: #555;
+color:white;
+ text-decoration: none;
+ border: 5px solid black;
+ margin: auto;
+ padding:20px  ;
+}   
+.e{
+    text-align:center;
+  
+   
+    
+}
+.seven  :hover{
+   color:wheat; 
+}
+.seven {
+    width: 100%; height:500px;
+    padding:100px;
+    margin: 50px;
+    text-align: center;
+   
+   }
+  
+.y{
+    float:left;
+    padding:30px;
+}
